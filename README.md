@@ -1,1 +1,1 @@
-"# JayBotArt-site" 
+Code for jaybotart.com, after changing the name from jaytherobot.com
