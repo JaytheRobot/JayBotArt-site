@@ -1,0 +1,993 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"des",
+				"design-pusher-6"
+			],
+			[
+				"de",
+				"design-height-4"
+			],
+			[
+				"design",
+				"design-height-5"
+			],
+			[
+				"var",
+				"var-pusher-6"
+			],
+			[
+				"fle",
+				"flex-start"
+			],
+			[
+				"s",
+				"screen"
+			],
+			[
+				"sec",
+				"section-title"
+			],
+			[
+				"thumb",
+				"thumb-div"
+			],
+			[
+				"Robo",
+				"RobotIconFB"
+			],
+			[
+				"soc",
+				"social-icon"
+			],
+			[
+				"Robot",
+				"RobotIconEmail"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"disp",
+				"display"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"displa",
+				"display-fonts"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bl",
+				"blue-color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"blue",
+				"blue-darker"
+			],
+			[
+				"flex",
+				"flex-flow"
+			],
+			[
+				"title",
+				"title-divider"
+			],
+			[
+				"wdi",
+				"width"
+			],
+			[
+				"min",
+				"minibar"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"Body",
+				"BodyandChi-Logo"
+			],
+			[
+				"cl",
+				"closeAll"
+			],
+			[
+				"filter",
+				"filterById"
+			],
+			[
+				"fi",
+				"filterById"
+			],
+			[
+				"close",
+				"closeMe"
+			],
+			[
+				"id",
+				"idNum"
+			],
+			[
+				"chec",
+				"checkHidden"
+			],
+			[
+				"is",
+				"isVisible"
+			],
+			[
+				"mag",
+				"margin-right"
+			],
+			[
+				"fe",
+				"flex-start"
+			],
+			[
+				"img",
+				"img-block"
+			],
+			[
+				"d",
+				"design"
+			],
+			[
+				"thum",
+				"thumb-div"
+			],
+			[
+				"se",
+				"section-title"
+			],
+			[
+				"gla",
+				"gal-wrapper"
+			],
+			[
+				"che",
+				"checkHidden"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"galler",
+				"galleryManager"
+			],
+			[
+				"fa",
+				"factory"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"click",
+				"clickService"
+			],
+			[
+				"nam",
+				"nameKey"
+			],
+			[
+				"my",
+				"myArray"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"sco",
+				"scopeExpression"
+			],
+			[
+				"document",
+				"documentClick"
+			],
+			[
+				"clo",
+				"closeFunc"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"P",
+				"Photoshop"
+			],
+			[
+				"pa",
+				"painting"
+			],
+			[
+				"imag",
+				"images"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"robot",
+				"robotGallery"
+			],
+			[
+				"A",
+				"Acylic"
+			],
+			[
+				"b",
+				"bgc\tbackground-color"
+			],
+			[
+				"display",
+				"display-font"
+			],
+			[
+				"body",
+				"body-font"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"so",
+				"source\tTag"
+			],
+			[
+				"Gill",
+				"GillSans"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"size",
+				"size-1of4"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"gutter",
+				"gutter-sizer"
+			],
+			[
+				"grid",
+				"grid-sizer"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"ima",
+				"imagesLoaded"
+			],
+			[
+				"mason",
+				"masonGrid"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"sp",
+				"space-between"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"Cavi",
+				"CaviarDreams"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-variant"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11645,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/robotGallery.js",
+			"settings":
+			{
+				"buffer_size": 12932,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/robot.scss",
+			"settings":
+			{
+				"buffer_size": 3883,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "sass/about.scss",
+			"settings":
+			{
+				"buffer_size": 1455,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 686.0,
+		"last_filter": "syntaxs",
+		"selected_items":
+		[
+			[
+				"syntaxs",
+				"Set Syntax: Sass"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: sass",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 749.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Jay Bramhall/Documents/JayBotArt Site"
+	],
+	"file_history":
+	[
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/sass/contact.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/sass/helpers/_variables.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/sass/robot.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/sass/content.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/js/robotGallery.js",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/sass/about.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/content.css",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/js/fixedMenu.js",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/css/robot.css",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/css/content.css",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/contact.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/css/helpers/_variables.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/css/about.css",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/css/content.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/css/robot.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/css/robot.css",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/css/content.css",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/index.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/js/services.js",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/js/toggleClass.js",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/js/ng-grid-panel.min.js",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/css/portfolio.css",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/sass/helpers/_mixins.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website 2/sass/robot2.css",
+		"/C/Users/Jay Bramhall/Documents/JTR Website dev/css/layout/_gallery-content.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website dev/css/layout/_header.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website dev/css/layout/_footer.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website dev/css/pages/_about.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website dev/css/pages/_contact.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website dev/css/helpers/_variables.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website dev/css/helpers/_fonts.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website dev/css/main.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website dev/css/salvattore.css",
+		"/C/Users/Jay Bramhall/Documents/JTR Website dev/css/portfolio.css",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/css/helpers/_variables.scss",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/css/content-sass.css",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/css/robot-sass.css",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/uberpong.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/torterra.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/tin-roof.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/raster-games.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/radiation.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/quick-pose.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/postwriter.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/paddleball.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/pacer.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/oklahoma-shirts.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/melodic-menagerie.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/lugdunon.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/keller-electric.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/easy-sell.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/bubbles.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/about.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/jumprope.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/thank-you.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/arnthak.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery/body-and-chi.html",
+		"/C/Users/Jay Bramhall/Documents/JTR Website/gallery-content-template.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/css/robot.css",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/css/content.css",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/css/portfolio.css",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/index.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/mail.php",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/uberpong.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/torterra.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/raster-games.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/radiation.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/quick-pose.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/postwriter.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/pacer.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/oklahoma-shirts.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/melodic-menagerie.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/lugdunon.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/keller-electric.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/easy-sell.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/bubbles.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/arnthak.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/body-and-chi.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/gallery/lemonaidiation.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/thank-you.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/about.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/contact.html",
+		"/C/Users/Jay Bramhall/Downloads/CSSReset.com - Keeping Footer At The Bottom Of The Page/index.html",
+		"/C/Users/Jay Bramhall/Downloads/CSSReset.com - Keeping Footer At The Bottom Of The Page/style.css",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/.htaccess",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/css/content",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/robot.css",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/portfolio.css",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/index3.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/robot2.css",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/page experiments/index1.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/robot3.css",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/index4.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR website/index.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR Website/index2.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR website idea1/index.html",
+		"/C/Users/Jay Bramhall/Pictures/JTR website idea1/robot_landing.css",
+		"/C/Users/Jay Bramhall/Pictures/JTR website/robot.css",
+		"/C/Users/Jay Bramhall/Pictures/JTR website/robot_landing.css",
+		"/C/Users/Jay Bramhall/Pictures/JTR website/robot_landing.js",
+		"/C/Users/Jay Bramhall/Pictures/JTR website/work.html",
+		"/C/Users/Jay Bramhall/AppData/Roaming/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"C:\\Users\\Jay Bramhall\\Documents\\JTR Website 2\\css\\helpers"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var",
+			"media",
+			"design-im",
+			"</li>",
+			"<li>",
+			"form",
+			"</a>",
+			"<a hre",
+			"</li>",
+			"<li>",
+			"p>",
+			"id:",
+			"#imag",
+			"'image",
+			"image1",
+			"image",
+			"id:",
+			"work.id",
+			"$scope.",
+			"Tin-Roof",
+			"design",
+			"id:",
+			"id: 1001,",
+			"design",
+			"artwork",
+			"id:",
+			"index",
+			"show",
+			"isVisible",
+			"null",
+			"works",
+			"img s",
+			"id: ",
+			"id: 1",
+			"desc",
+			",\"",
+			"jpg",
+			"name",
+			"image",
+			"work",
+			"item",
+			"des",
+			"Acylic",
+			"five-gray",
+			"gray",
+			"#f0f0f0",
+			"#308fff",
+			"GillSans, sans-serif",
+			"308fff",
+			"f0f0f0",
+			"=\"icon/fa",
+			"=\"i",
+			"=\"ic",
+			"ico",
+			"Ponggirl",
+			"><",
+			"/f",
+			"/ap",
+			"\t\t\t\t\t\n",
+			"shirts",
+			"ts",
+			"<div>",
+			"15px",
+			"class=\"grid-item\"",
+			"container",
+			"250px",
+			"<h3",
+			"30px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3758,
+								3758
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/robotGallery.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12932,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								360,
+								360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "sass/robot.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3883,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2226,
+								2226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3328.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "sass/about.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								352
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 210.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "JTR2.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
